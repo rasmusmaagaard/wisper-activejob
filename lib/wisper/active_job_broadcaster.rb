@@ -1,7 +1,7 @@
 require 'wisper'
 require 'wisper/active_job/version'
 # require 'active_job'
-require 'rails/all'
+# require 'rails/all'
 
 module Wisper
   class ActiveJobBroadcaster
